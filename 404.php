@@ -1,60 +1,53 @@
 <?php
-/**
- * The template for displaying 404 pages (not found)
- *
- * @link https://codex.wordpress.org/Creating_an_Error_404_Page
- *
- * @package LOUIS
- */
 
 get_header();
 ?>
 
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main">
+<div id="content-anchor" class="site-content small-12">
 
-			<section class="error-404 not-found">
-				<header class="page-header">
-					<h1 class="page-title"><?php esc_html_e( 'Oops! That page can&rsquo;t be found.', 'louis' ); ?></h1>
-				</header><!-- .page-header -->
 
-				<div class="page-content">
-					<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'louis' ); ?></p>
-
-					<?php
-					get_search_form();
-
-					the_widget( 'WP_Widget_Recent_Posts' );
-					?>
-
-					<div class="widget widget_categories">
-						<h2 class="widget-title"><?php esc_html_e( 'Most Used Categories', 'louis' ); ?></h2>
-						<ul>
-							<?php
-							wp_list_categories( array(
-								'orderby'    => 'count',
-								'order'      => 'DESC',
-								'show_count' => 1,
-								'title_li'   => '',
-								'number'     => 10,
-							) );
-							?>
-						</ul>
-					</div><!-- .widget -->
-
-					<?php
-					/* translators: %1$s: smiley */
-					$louis_archive_content = '<p>' . sprintf( esc_html__( 'Try looking in the monthly archives. %1$s', 'louis' ), convert_smilies( ':)' ) ) . '</p>';
-					the_widget( 'WP_Widget_Archives', 'dropdown=1', "after_title=</h2>$louis_archive_content" );
-
-					the_widget( 'WP_Widget_Tag_Cloud' );
-					?>
-
-				</div><!-- .page-content -->
-			</section><!-- .error-404 -->
-
-		</main><!-- #main -->
-	</div><!-- #primary -->
+    <section id="content" class="module" data-ng-controller="ContentController">
+        <div class="module__content">
+            <section id="error404" class="widget-block widget">
+                <br><br><br><br>
+                <header class="widget__header text-center -inline-group">
+                    <h1 class="error-page__h1">
+                        Ошибка 404
+                    </h1>
+                </header>
+                <div class="content-block widget__content widget__content_filled">
+                    <div class="row widget__inner">
+                        <div class="small-12 medium-10 medium-offset-1 columns">
+                            <div class="error-page__head text-center">
+                                <h3>
+                                    Запрашиваемая Вами страница не существует
+                                </h3>
+                            </div>
+                            <div class="error-page__content">
+                                <ul class="error-page__items">
+                                    <li class="error-page__item">
+                                        Ссылка, по которой Вы пришли,
+                                        неверна.
+                                    </li>
+                                    <li class="error-page__item">
+                                        Вы неправильно указали путь или
+                                        название файла/страницы.
+                                    </li>
+                                    <li class="error-page__item">
+                                        Файл или страница были удалены со
+                                        времени Вашего последнего посещения.
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+    <br><br><br><br><br><br><br><br>
+</div>
 
 <?php
 get_footer();
+?>

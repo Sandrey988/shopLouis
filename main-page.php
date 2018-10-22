@@ -6,7 +6,6 @@ Template Name: MainPage
 get_header();
 ?>
 
-
 <div id="content-anchor" class="site-content small-12">
     <div class="site-background" style="background-color: #FFFFFF; background-image: none; "></div>
     <section data-blocks-list id="content" class="js-blocks-list" data-ng-controller="ContentController">
@@ -98,139 +97,130 @@ get_header();
                             <article class="catalog__list row -inline-group_top">
                                 <div class="catalog__category inline-column small-6 medium-4 large-3">
                                     <div class="category-item category-item_250x190" id="item3423916">
-                                        <a href="/products/category/3423916"
+                                        <a href="/products/men-bag"
                                            class="category-item__preview category-item__preview_250x190"><img
                                                     src="//i.siteapi.org/-ruzZrMg0vWI9T9_WfUgyAQztus=/0x48:780x716/fit-in/250x190/center/top/filters:fill(transparent):format(png)/cd2000cd7dfd450.s2.siteapi.org/img/5zbh9m3rd5s0cgooo44k4ws8g80c8s"
                                                     class="category-item__image" alt="Мужские сумки Louis Vuitton"
                                                     title="Мужские сумки Louis Vuitton"></a>
-                                        <div class="category-item__link"><a href="/products/category/3423916">Мужские
+                                        <div class="category-item__link"><a href="/products/men-bag">Мужские
                                                 сумки Louis Vuitton</a></div>
                                     </div>
                                 </div>
                                 <div class="catalog__category inline-column small-6 medium-4 large-3">
                                     <div class="category-item category-item_250x190" id="item3456730">
-                                        <a href="/products/category/3456730"
+                                        <a href="/products/women-bag"
                                            class="category-item__preview category-item__preview_250x190"><img
                                                     src="//i.siteapi.org/cpxHgf3nEYc4eDJkjRcoiJsPvDo=/0x64:716x670/fit-in/250x190/center/top/filters:fill(transparent):format(png)/cd2000cd7dfd450.s2.siteapi.org/img/gd1r15nb0tcgo4gggoog4so0ck44wc"
                                                     class="category-item__image" alt="Женские сумки Louis Vuitton"
                                                     title="Женские сумки Louis Vuitton"></a>
-                                        <div class="category-item__link"><a href="/products/category/3456730">Женские
+                                        <div class="category-item__link"><a href="/products/women-bag">Женские
                                                 сумки Louis Vuitton</a></div>
                                     </div>
                                 </div>
                                 <div class="catalog__category inline-column small-6 medium-4 large-3">
                                     <div class="category-item category-item_250x190" id="item3422366">
-                                        <a href="/products/category/rukzaki-louis-vuitton"
+                                        <a href="/products/rukzaki"
                                            class="category-item__preview category-item__preview_250x190"><img
                                                     src="//i.siteapi.org/rOPY3TJUt5FTjsJRH6HS4RDIEa4=/0x187:1482x1417/fit-in/250x190/center/top/filters:fill(transparent):format(png)/cd2000cd7dfd450.s2.siteapi.org/img/mafgkyhzotck4ss4okg0owwc0wg0og"
                                                     class="category-item__image" alt="Рюкзаки Louis Vuitton"
                                                     title="Рюкзаки Louis Vuitton"></a>
                                         <div class="category-item__link"><a
-                                                    href="/products/category/rukzaki-louis-vuitton">Рюкзаки Louis
+                                                    href="/products/rukzaki">Рюкзаки Louis
                                                 Vuitton</a></div>
                                     </div>
                                 </div>
                                 <div class="catalog__category inline-column small-6 medium-4 large-3">
                                     <div class="category-item category-item_250x190" id="item3423933">
-                                        <a href="/products/category/louis-vuitton-keepall"
+                                        <a href="/products/travel"
                                            class="category-item__preview category-item__preview_250x190"><img
                                                     src="//i.siteapi.org/RhRmOqCSDpCcT0hiSiDMCgsxuqw=/100x195:572x581/fit-in/250x190/center/top/filters:fill(transparent):format(png)/cd2000cd7dfd450.s2.siteapi.org/img/pcvawjo3f5wkokcw8g8wgoww4g0w0w"
                                                     class="category-item__image" alt="Дорожные сумки Louis Vuitton"
                                                     title="Дорожные сумки Louis Vuitton"></a>
                                         <div class="category-item__link"><a
-                                                    href="/products/category/louis-vuitton-keepall">Дорожные сумки Louis
+                                                    href="/products/travel">Дорожные сумки Louis
                                                 Vuitton</a></div>
                                     </div>
                                 </div>
                                 <div class="catalog__category inline-column small-6 medium-4 large-3">
                                     <div class="category-item category-item_250x190" id="item3457265">
-                                        <a href="/products/category/3457265"
+                                        <a href="/products/clutchi"
                                            class="category-item__preview category-item__preview_250x190"><img
                                                     src="//i.siteapi.org/cAahBJnypQqPg5_39kaWb0_cqDE=/0x150:656x655/fit-in/250x190/center/top/filters:fill(transparent):format(png)/cd2000cd7dfd450.s2.siteapi.org/img/h8er2x2odeogockwoc4w0o0k08kc84"
                                                     class="category-item__image" alt="Клатчи LOUIS VUITTON"
                                                     title="Клатчи LOUIS VUITTON"></a>
-                                        <div class="category-item__link"><a href="/products/category/3457265">Клатчи
+                                        <div class="category-item__link"><a href="/products/clutchi">Клатчи
                                                 LOUIS VUITTON</a></div>
                                     </div>
                                 </div>
                                 <div class="catalog__category inline-column small-6 medium-4 large-3">
                                     <div class="category-item category-item_250x190" id="item3457319">
-                                        <a href="/products/category/koshelki-louis-vuitton"
+                                        <a href="/products/koshelki"
                                            class="category-item__preview category-item__preview_250x190"><img
                                                     src="//i.siteapi.org/BCKilI6Ec3P5YqqlVZmNLiRcRMc=/0x146:639x638/fit-in/250x190/center/top/filters:fill(transparent):format(png)/cd2000cd7dfd450.s2.siteapi.org/img/dbaoe9q7dvk000k8c88g88w4w4ckwg"
                                                     class="category-item__image" alt="Кошельки Louis Vuitton"
                                                     title="Кошельки Louis Vuitton"></a>
                                         <div class="category-item__link"><a
-                                                    href="/products/category/koshelki-louis-vuitton">Кошельки Louis
+                                                    href="/products/koshelki">Кошельки Louis
                                                 Vuitton</a></div>
                                     </div>
                                 </div>
                                 <div class="catalog__category inline-column small-6 medium-4 large-3">
                                     <div class="category-item category-item_250x190" id="item3457641">
-                                        <a href="/products/category/3457641"
+                                        <a href="/products/cosmetic"
                                            class="category-item__preview category-item__preview_250x190"><img
                                                     src="//i.siteapi.org/HVeGq-LGLvDUYU67NSqYh4wUY0s=/47x200:571x625/fit-in/250x190/center/top/filters:fill(transparent):format(png)/cd2000cd7dfd450.s2.siteapi.org/img/t4pgrrbyvc0gsk8cog0ckcw8cogggo"
                                                     class="category-item__image" alt="Косметички LOUIS VUITTON"
                                                     title="Косметички LOUIS VUITTON"></a>
-                                        <div class="category-item__link"><a href="/products/category/3457641">Косметички
+                                        <div class="category-item__link"><a href="/products/cosmetic">Косметички
                                                 LOUIS VUITTON</a></div>
                                     </div>
                                 </div>
                                 <div class="catalog__category inline-column small-6 medium-4 large-3">
                                     <div class="category-item category-item_250x190" id="item3423926">
-                                        <a href="/products/category/3423926"
+                                        <a href="/products/passport"
                                            class="category-item__preview category-item__preview_250x190"><img
                                                     src="//i.siteapi.org/qwmvA06ykNJVGy65kqthIXpvq48=/0x253:1312x1263/fit-in/250x190/center/top/filters:fill(transparent):format(png)/cd2000cd7dfd450.s2.siteapi.org/img/d8tottdhexsggg0g8goo48ws8g840s"
                                                     class="category-item__image" alt="Обложки на паспорт Louis Vuitton"
                                                     title="Обложки на паспорт Louis Vuitton"></a>
-                                        <div class="category-item__link"><a href="/products/category/3423926">Обложки на
+                                        <div class="category-item__link"><a href="/products/passport">Обложки на
                                                 паспорт Louis Vuitton</a></div>
                                     </div>
                                 </div>
-                                <div class="catalog__category inline-column small-6 medium-4 large-3">
-                                    <div class="category-item category-item_250x190" id="item3423924">
-                                        <a href="/products/category/obuv-louis-vuitton"
-                                           class="category-item__preview category-item__preview_250x190"><img
-                                                    src="//i.siteapi.org/XmVSZyeycI-_JlaD3L0cU2jvpQA=/0x120:768x711/fit-in/250x190/center/top/filters:fill(transparent):format(png)/cd2000cd7dfd450.s2.siteapi.org/img/nxpctva8mz4cswgkck00ws4sk0oksk"
-                                                    class="category-item__image" alt="Обувь Louis Vuitton"
-                                                    title="Обувь Louis Vuitton"></a>
-                                        <div class="category-item__link"><a
-                                                    href="/products/category/obuv-louis-vuitton">Обувь Louis Vuitton</a>
-                                        </div>
-                                    </div>
-                                </div>
+
+
+
                                 <div class="catalog__category inline-column small-6 medium-4 large-3">
                                     <div class="category-item category-item_250x190" id="item3422424">
-                                        <a href="/products/category/remni-louis-vuitton"
+                                        <a href="/products/remni"
                                            class="category-item__preview category-item__preview_250x190"><img
                                                     src="//i.siteapi.org/j0Y6T8sJinuVBdqOv7s8w5VGCyo=/0x176:768x767/fit-in/250x190/center/top/filters:fill(transparent):format(png)/cd2000cd7dfd450.s2.siteapi.org/img/caw5uwhzpegc8ck844oogkcg88wogo"
                                                     class="category-item__image" alt="Ремни Louis Vuitton"
                                                     title="Ремни Louis Vuitton"></a>
                                         <div class="category-item__link"><a
-                                                    href="/products/category/remni-louis-vuitton">Ремни Louis
+                                                    href="/products/remni">Ремни Louis
                                                 Vuitton</a></div>
                                     </div>
                                 </div>
                                 <div class="catalog__category inline-column small-6 medium-4 large-3">
                                     <div class="category-item category-item_250x190" id="item3459246">
-                                        <a href="/products/category/platki-louis-vuitton"
+                                        <a href="/products/platki"
                                            class="category-item__preview category-item__preview_250x190"><img
                                                     src="//i.siteapi.org/epHfuiWoLheCuP91Z_mHaaHcPAk=/0x47:648x634/fit-in/250x190/center/top/filters:fill(transparent):format(png)/cd2000cd7dfd450.s2.siteapi.org/img/q6897ro93dcc0w4gw0g8kc4owg4oww"
                                                     class="category-item__image" alt="Платки LOUIS VUITTON"
                                                     title="Платки LOUIS VUITTON"></a>
                                         <div class="category-item__link"><a
-                                                    href="/products/category/platki-louis-vuitton">Платки LOUIS
+                                                    href="/products/platki">Платки LOUIS
                                                 VUITTON</a></div>
                                     </div>
                                 </div>
                                 <div class="catalog__category inline-column small-6 medium-4 large-3">
                                     <div class="category-item category-item_250x190" id="item3459957">
-                                        <a href="/products/category/3459957"
+                                        <a href="/products/supreme"
                                            class="category-item__preview category-item__preview_250x190"><img
                                                     src="//i.siteapi.org/cylaU2sqrFaufaDZkxVCWyVgUHA=/0x26:403x402/fit-in/250x190/center/top/filters:fill(transparent):format(png)/cd2000cd7dfd450.s2.siteapi.org/img/gp5m4fb6ce80c8gcwgwggskswkow8o"
                                                     class="category-item__image" alt="Louis Vuitton X Supreme"
                                                     title="Louis Vuitton X Supreme"></a>
-                                        <div class="category-item__link"><a href="/products/category/3459957">Louis
+                                        <div class="category-item__link"><a href="/products/supreme">Louis
                                                 Vuitton X Supreme</a></div>
                                     </div>
                                 </div>
@@ -321,16 +311,7 @@ get_header();
                     <header class="posts__header widget__header row text-center widget__header_underlined">
                         <div class="small-12 column">
                             <h3 class="posts__title">
-                                <a href="https://louis-vuitton.su/posts">Новости</a><a id="rss"
-                                                                                       class="posts__rss svg-icon svg-icon_medium"
-                                                                                       href="https://louis-vuitton.su/posts/rss"
-                                                                                       title="Подписаться на RSS">
-                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
-                                         xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="640"
-                                         viewbox="0 0 640 640">
-                                        <path d="M76.8 76.8v75.744c226.752 0 410.56 183.872 410.56 410.624h75.808c0-268.608-217.76-486.368-486.368-486.368zM76.8 228.384v75.808c143.008 0 258.976 115.936 258.976 259.008h75.776c0-184.896-149.888-334.816-334.752-334.816zM149.408 417.888c-40.128 0-72.64 32.576-72.64 72.672s32.512 72.64 72.64 72.64 72.608-32.512 72.608-72.64-32.48-72.672-72.608-72.672z"></path>
-                                    </svg>
-                                </a>
+                                <a href="/posts">Новости</a>
                             </h3>
                         </div>
                     </header>
@@ -391,7 +372,7 @@ get_header();
             </section>
 
             <section id="catalogsearch" data-widget-container="" data-widget-id="14" data-region="1" data-widget-type="33" data-widget-url="/widget?isDomain=1&amp;route=mainPage&amp;on_main=1&amp;type=33&amp;widget_id=14" data-block-id="14" class=" widget-sort
-         catalog-search_main-page -nt-widget widget widget-block"><div class="widget__content widget__content_filled"><div class="row widget__inner -relative"><div class="small-12 column"></div><article class="small-12 column"><form method="GET" action="https://louis-vuitton.su/products/search"><input type="hidden" name="sort" value="0"><input type="hidden" name="balance" value=""><input type="hidden" name="categoryId" value=""><input type="hidden" name="min_cost" value=""><input type="hidden" name="max_cost" value=""><input type="hidden" name="page" value="1"><div class="-inline-group_top row text-center medium-text-left"><div class="medium-9 small-12 inline-column"><input type="text" class="catalog-search__input" placeholder="Поиск по каталогу" name="text" value=""></div><div class="show-for-small hide-for-medium small-10 inline-column"><button class="small-12 button catalog-search__button button_for_search">Найти</button></div><div class="hide-for-small show-for-medium medium-3 inline-column"><button class="button small-12 catalog-search__button button_for_search">Найти</button></div></div></form></article></div></div></section>
+         catalog-search_main-page -nt-widget widget widget-block"><div class="widget__content widget__content_filled"><div class="row widget__inner -relative"><div class="small-12 column"></div><article class="small-12 column"><form method="GET" action="/products/search"><input type="hidden" name="sort" value="0"><input type="hidden" name="balance" value=""><input type="hidden" name="categoryId" value=""><input type="hidden" name="min_cost" value=""><input type="hidden" name="max_cost" value=""><input type="hidden" name="page" value="1"><div class="-inline-group_top row text-center medium-text-left"><div class="medium-9 small-12 inline-column"></div><div class="show-for-small hide-for-medium small-10 inline-column"></div><div class="hide-for-small show-for-medium medium-3 inline-column"></div></div></form></article></div></div></section>
 
 
             <section data-widget-lead-form data-widget-container data-widget-id="10" data-widget-sort="1"
